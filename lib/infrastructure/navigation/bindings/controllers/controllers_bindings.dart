@@ -1,0 +1,10 @@
+export 'package:unjabbed_admin/infrastructure/navigation/bindings/controllers/auth_change_password.controller.binding.dart'; 
+export 'package:unjabbed_admin/infrastructure/navigation/bindings/controllers/auth_login.controller.binding.dart'; 
+export 'package:unjabbed_admin/infrastructure/navigation/bindings/controllers/auth_splash.controller.binding.dart'; 
+export 'package:unjabbed_admin/infrastructure/navigation/bindings/controllers/itemaccess.controller.binding.dart'; 
+export 'package:unjabbed_admin/infrastructure/navigation/bindings/controllers/package.controller.binding.dart'; 
+export 'package:unjabbed_admin/infrastructure/navigation/bindings/controllers/user.controller.binding.dart'; 
+export 'package:unjabbed_admin/infrastructure/navigation/bindings/controllers/user_detail.controller.binding.dart'; 
+export 'package:unjabbed_admin/infrastructure/navigation/bindings/controllers/user_report.controller.binding.dart'; 
+export 'package:unjabbed_admin/infrastructure/navigation/bindings/controllers/user_review.controller.binding.dart'; 
+export 'package:unjabbed_admin/infrastructure/navigation/bindings/controllers/verify.controller.binding.dart'; 
